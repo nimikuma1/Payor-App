@@ -7,13 +7,14 @@ o Provide basic user instructions in order to utilize the application fully and 
 Navigate to this URL: http://18.117.172.43:5001/
 
 Type in "priorauth" for Username 
+
 Type in "DivyaNimisha123" for Password 
 
 ![image](https://github.com/nimikuma1/Payor-App/assets/166041511/6d34e69c-263c-4de1-8631-1d1cb170065a)
 
 Click "Login"
 
-After submitting prior auth from the EMR application, we should see the corresponding member details in the Payor System
+After submitting prior auth from the EMR application, we should see the corresponding member details in the Payor System. The example shown below is the prior auth submission for patient Jane Smith.
 
 You should see:
 
