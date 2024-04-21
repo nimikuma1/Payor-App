@@ -4,7 +4,7 @@ We have deployed the application on AWS. We created EC2 Instance and launched an
 
 o Provide basic user instructions in order to utilize the application fully and show off all features.
 
-Navigate to this URL: http://18.117.172.43:5001/
+Navigate to this URL: [http://18.117.172.43:5001/](http://3.12.41.138:5001/)
 
 Type in "priorauth" for Username 
 
